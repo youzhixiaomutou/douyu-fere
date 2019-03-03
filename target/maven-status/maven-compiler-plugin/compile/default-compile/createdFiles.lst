@@ -1,0 +1,12 @@
+me\linxiaowei\douyu\fere\sdk\domain\data\server\ServerDataTypeEnum.class
+me\linxiaowei\douyu\fere\sdk\domain\data\client\KeepliveData.class
+me\linxiaowei\douyu\fere\sdk\domain\data\client\LoginReqData.class
+me\linxiaowei\douyu\fere\sdk\domain\data\client\JoinGroupData.class
+me\linxiaowei\douyu\fere\sdk\domain\data\client\MrklData.class
+me\linxiaowei\douyu\fere\DouyuFereApplication.class
+me\linxiaowei\douyu\fere\sdk\domain\Message.class
+me\linxiaowei\douyu\fere\sdk\util\ConstantUtil.class
+me\linxiaowei\douyu\fere\sdk\domain\data\client\LogoutData.class
+me\linxiaowei\douyu\fere\sdk\domain\data\client\ClientDataTypeEnum.class
+me\linxiaowei\douyu\fere\sdk\util\ConverseUtil.class
+me\linxiaowei\douyu\fere\sdk\domain\data\AbstractData.class
